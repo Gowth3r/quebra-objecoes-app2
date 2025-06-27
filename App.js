@@ -333,7 +333,7 @@ export default function App() {
   const categorias = [
     { nome: "Preço", emoji: "💰", query: "caro" },
     { nome: "Tempo", emoji: "⏰", query: "pensar" },
-    { nome: "Concorrente", emoji: "�", query: "operadora" },
+    { nome: "Concorrente", emoji: "🏆", query: "operadora" },
     { nome: "Problema", emoji: "🔧", query: "problema" },
     { nome: "Fidelidade", emoji: "🤝", query: "fidelidade" },
     { nome: "Interesse", emoji: "💡", query: "interessado" }
