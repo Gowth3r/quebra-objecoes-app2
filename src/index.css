@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Roboto', 'Arial', sans-serif;
+  background: #1e1b4b;
+}
+
+#root {
+  min-height: 100vh;
+}
